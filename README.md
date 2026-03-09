@@ -119,7 +119,7 @@ Arquivo de saída gerado no fluxo final:
 pip install pandas numpy matplotlib seaborn scikit-learn scipy
 ```
 
-2. Garanta que os CSVs estejam no mesmo diretório do notebook.
+2. Garanta que os CSVs estejam no mesmo diretório do notebook. Faça o download aqui: https://drive.google.com/drive/folders/1Zhyb4lo8BMxzKt3JZtivw_5AjAt4j2JW?usp=sharing
 3. Abra e execute, em ordem, o `AGRUPAMENTO-BOs-CD2.ipynb`.
 4. Ao final, será gerado o arquivo `clusters_tipos_crime.csv`.
 
@@ -134,3 +134,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 - O projeto usa `qtde ocorrencias` como **peso** nas métricas de proporção.
 - Parte das análises depende da limpeza de datas/horários e da normalização de colunas.
 - Resultados de clusterização podem variar levemente com alterações de versão de biblioteca e parâmetros.
+
